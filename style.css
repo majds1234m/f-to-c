@@ -1,0 +1,16 @@
+body {
+    border: grey solid 5px;
+    width: 600px;
+    margin: 150px auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+h1 {
+    text-align: center;
+}
+.button {
+    background-color: #26d978;
+}
